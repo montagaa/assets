@@ -6,3 +6,6 @@
 .env
 .env.test
 bin/
+__pycache__/
+*.pyc
+!tradingbot/requirements.txt
